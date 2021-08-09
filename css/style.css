@@ -22,6 +22,11 @@ section div aside {
 }
 
 section div aside img{
+<<<<<<< HEAD
     width: 600px;
     height: 350px;
+=======
+    width: 200px;
+    height: 250px;
+>>>>>>> origin/terceiro-fato
 }
